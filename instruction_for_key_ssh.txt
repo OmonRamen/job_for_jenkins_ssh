@@ -1,0 +1,1 @@
+put ssh key in .ssh/id_rsa.pub into ssh auth github
